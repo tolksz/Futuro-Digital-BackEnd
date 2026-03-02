@@ -1,0 +1,89 @@
+{
+  "ano": 2025,
+  "projetos": [
+    {
+      "nome": "Desenvolvimento do sistema ads.restinga.ifrs.edu.br",
+      "inicio": "2025-09-10",
+      "previsao_termino": "2025-12-23",
+      "orcamento": "500.00",
+      "resumo": {
+        "tarefas_concluidas": {
+          "quantidade": 2,
+          "horas_estimadas": 20,
+          "horas_registradas": 28,
+          "tarefas": [
+            {
+              "titulo": "Implementação do cadastro no site",
+              "linguagem": "PYTHON",
+              "estimativa_horas": 15,
+              "horas_registradas": 10,
+              "status": "DONE",
+              "responsavel": "Ricardo Luis dos Santos",
+              "criacao": "2025-09-20T00:00:00",
+              "conclusao": "2025-09-23T00:00:00"
+            },
+            {
+              "titulo": "Front-end",
+              "linguagem": "JS",
+              "estimativa_horas": 5,
+              "horas_registradas": 13,
+              "status": "DONE",
+              "responsavel": "Rafael Esteves",
+              "criacao": "2025-11-10T00:00:00",
+              "conclusao": "2025-11-13T00:00:00"
+            }
+          ]
+        },
+        "tarefas_atrasadas": {
+          "quantidade": 1,
+          "horas_estimadas": 15,
+          "horas_registradas": 20,
+          "tarefas": [
+            {
+              "titulo": "Geração de Relatórios",
+              "linguagem": "PYTHON",
+              "estimativa_horas": 15,
+              "horas_registradas": 20,
+              "status": "DELAYED",
+              "responsavel": "Ricardo Luis dos Santos",
+              "criacao": "2025-10-10T00:00:00",
+              "conclusao": "2025-10-12T00:00:00"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "nome": "Aplicativo Android para jogos educativos",
+      "inicio": "2025-11-20",
+      "previsao_termino": "2025-12-31",
+      "orcamento": "50000.00",
+      "resumo": {
+        "tarefas_concluidas": {
+          "quantidade": 1,
+          "horas_estimadas": 11,
+          "horas_registradas": 30,
+          "tarefas": [
+            {
+              "titulo": "Front-end",
+              "linguagem": "DART",
+              "estimativa_horas": 11,
+              "horas_registradas": 30,
+              "status": "DONE",
+              "responsavel": "Rafael Esteves",
+              "criacao": "2025-11-10T00:00:00",
+              "conclusao": "2025-11-13T00:00:00"
+            }
+          ]
+        },
+        "tarefas_atrasadas": {
+          "quantidade": 0,
+          "horas_estimadas": 0,
+          "horas_registradas": 0,
+          "tarefas": []
+        }
+      }
+    }
+  ]
+}
+
