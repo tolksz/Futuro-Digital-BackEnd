@@ -1,9 +1,8 @@
-# 🚀 Futuro Digital — Backend Python & Django Training
+# Futuro Digital — Backend Python & Django Training
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Django](https://img.shields.io/badge/Django-Framework-green)
 ![REST API](https://img.shields.io/badge/API-REST-orange)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 Programa de formação em desenvolvimento **Back-end com Python e Django**, realizado através do projeto **Futuro Digital**, oferecido pelo Instituto Hardware e IFRS em parceria com o Governo Federal apoiado pela SOFTEX.
 
